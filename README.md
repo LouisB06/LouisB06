@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LouisB06&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisB06&layout=compact&theme=gruvbox&hide_border=true" />
+<img height="260" src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/stats.svg" />
+<img height="260" src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/top-langs.svg" />
 
 </div>
 

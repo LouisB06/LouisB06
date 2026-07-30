@@ -1,0 +1,11 @@
+<svg width="380" height="146" viewBox="0 0 380 146" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" rx="10" width="378" height="144" fill="#1d2021" stroke="#504945" stroke-width="1"/>
+  <text x="25" y="38" font-family="Segoe UI, sans-serif" font-size="19" font-weight="700" fill="#fe8019">Most Used Languages</text>
+  <rect x="25" y="55" width="330" height="10" rx="5" fill="#3c3836"/>
+  <rect x="25.0" y="55" width="249.9" height="10" fill="#f1e05a"/><rect x="274.9" y="55" width="80.1" height="10" fill="#3572A5"/>
+  
+    <circle cx="25" cy="96" r="5" fill="#f1e05a"/>
+    <text x="39" y="100" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">JavaScript 75.73%</text>
+    <circle cx="200" cy="96" r="5" fill="#3572A5"/>
+    <text x="214" y="100" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">Python 24.27%</text>
+</svg>
