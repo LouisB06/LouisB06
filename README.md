@@ -72,7 +72,7 @@
 
 ## Pinned Projects
 
-> Pin your best repos from your GitHub profile page ("Customize your pins") — they'll render below this line automatically as cards once pinned.
+> Check out my pinned repos below ↓
 
 <br/>
 
