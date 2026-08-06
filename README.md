@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Louis%20Blake&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%26%20ML&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Louis%20Blake&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%26%20Projects&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+things+with+data+%26+code;Python+%7C+SQL+%7C+PyTorch+%7C+Pandas;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+things+with+data+%26+code;Python+%7C+SQL+%7C+Pandas+%7C+Git;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,9 +28,9 @@
 
 ## About Me
 
-- 🛠️ Software Engineer with a focus on **Data Science & Machine Learning**
-- 🔍 Turning messy data into models, pipelines, and products that actually ship
-- 🚀 Currently exploring: model deployment, ML infra, and cleaner data pipelines
+- 🛠️ Software Engineer with a focus on **Data & Projects**
+- 🔍 Turning messy data into pipelines and products that actually ship
+- 🚀 Currently exploring: deployment, tooling, and cleaner data pipelines
 - 📫 **[Reach me on LinkedIn →](https://www.linkedin.com/in/louis-blake/)**
 
 <br/>
@@ -41,11 +41,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
@@ -91,7 +90,7 @@
 
 <div align="center">
 
-Always happy to talk data, ML, or interesting engineering problems.
+Always happy to talk data, projects, or interesting engineering problems.
 
 <a href="https://www.linkedin.com/in/louis-blake/">
   <img src="https://img.shields.io/badge/LinkedIn-Louis%20Blake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
