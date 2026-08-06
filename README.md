@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+things+with+data+%26+code;Python+%7C+SQL+%7C+Pandas+%7C+Git;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+things+with+data+%26+code;TypeScript+%7C+Java+%7C+React+%7C+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,11 +41,28 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git&theme=dark" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,java,js,css,postgres&theme=dark" />
+
 <br/><br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+**Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,nextjs&theme=dark" />
+
+<br/><br/>
+
+**Tools & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" />
+
+<br/><br/>
+
+**Methodologies**
+<br/>
+<img src="https://img.shields.io/badge/Scrum-0A66C2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-172B4D?style=for-the-badge&logoColor=white" />
 
 </div>
 
