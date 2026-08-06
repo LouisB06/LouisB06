@@ -1,0 +1,23 @@
+<svg width="100%" height="220" viewBox="0 0 1200 220" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E3192"/>
+      <stop offset="100%" stop-color="#1BFFFF"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <path d="M0,190 C150,220 300,160 450,190 C600,220 750,160 900,190 C1050,220 1150,180 1200,190 L1200,220 L0,220 Z" fill="url(#waveGrad)"/>
+  <path d="M0,205 C150,230 300,175 450,205 C600,230 750,175 900,205 C1050,230 1150,195 1200,205 L1200,220 L0,220 Z" fill="#ffffff" fill-opacity="0.08"/>
+
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="1.1s" fill="freeze"/>
+    <text x="600" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#ffffff" text-anchor="middle">Louis Blake</text>
+    <text x="600" y="121" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" fill-opacity="0.9" text-anchor="middle">Software Engineer | Data &amp; Projects</text>
+  </g>
+</svg>

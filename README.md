@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Louis%20Blake&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%26%20Projects&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+things+with+data+%26+code;Python+%7C+SQL+%7C+Pandas+%7C+Git;Always+learning%2C+always+shipping" alt="Typing SVG" />
