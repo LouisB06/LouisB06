@@ -6,25 +6,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+things+with+data+%26+code;Python+%7C+SQL+%7C+PyTorch+%7C+Pandas;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <a href="https://www.linkedin.com/in/louis-blake/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/LouisB06">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/LouisB06?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=LouisB06&label=Profile%20Views&color=1BFFFF&style=flat" />
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
+
 ## About Me
 
-- Software Engineer with a focus on **Data Science & Machine Learning**
-- Turning messy data into models, pipelines, and products that actually ship
-- Currently exploring: model deployment, ML infra, and cleaner data pipelines
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/louis-blake/)
+- 🛠️ Software Engineer with a focus on **Data Science & Machine Learning**
+- 🔍 Turning messy data into models, pipelines, and products that actually ship
+- 🚀 Currently exploring: model deployment, ML infra, and cleaner data pipelines
+- 📫 **[Reach me on LinkedIn →](https://www.linkedin.com/in/louis-blake/)**
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
 
 ## Tech Stack
 
@@ -41,11 +52,15 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
+
 ## Pinned Projects
 
 > Pin your best repos from your GitHub profile page ("Customize your pins") — they'll render below this line automatically as cards once pinned.
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
 
 ## 📈 My GitHub History
 
@@ -65,6 +80,25 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouisB06/LouisB06/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/LouisB06/LouisB06/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Always happy to talk data, ML, or interesting engineering problems.
+
+<a href="https://www.linkedin.com/in/louis-blake/">
+  <img src="https://img.shields.io/badge/LinkedIn-Louis%20Blake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/LouisB06">
+  <img src="https://img.shields.io/badge/GitHub-LouisB06-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
