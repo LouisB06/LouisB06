@@ -2,20 +2,20 @@
   <rect x="1" y="1" rx="10" width="378" height="200" fill="#1d2021" stroke="#504945" stroke-width="1"/>
   <text x="25" y="38" font-family="Segoe UI, sans-serif" font-size="19" font-weight="700" fill="#fe8019">Most Used Languages</text>
   <rect x="25" y="55" width="330" height="10" rx="5" fill="#3c3836"/>
-  <rect x="25.0" y="55" width="245.0" height="10" fill="#3178c6"/><rect x="270.0" y="55" width="49.2" height="10" fill="#b07219"/><rect x="319.3" y="55" width="10.3" height="10" fill="#8b8b8b"/><rect x="329.5" y="55" width="8.7" height="10" fill="#f1e05a"/><rect x="338.3" y="55" width="6.1" height="10" fill="#3572A5"/><rect x="344.4" y="55" width="5.3" height="10" fill="#e34c26"/><rect x="349.7" y="55" width="5.3" height="10" fill="#8b8b8b"/>
+  <rect x="25.0" y="55" width="240.2" height="10" fill="#3178c6"/><rect x="265.2" y="55" width="53.8" height="10" fill="#b07219"/><rect x="319.0" y="55" width="9.4" height="10" fill="#8b8b8b"/><rect x="328.3" y="55" width="8.6" height="10" fill="#f1e05a"/><rect x="336.9" y="55" width="8.3" height="10" fill="#3572A5"/><rect x="345.2" y="55" width="4.8" height="10" fill="#e34c26"/><rect x="350.0" y="55" width="5.0" height="10" fill="#8b8b8b"/>
   
     <circle cx="25" cy="96" r="5" fill="#3178c6"/>
-    <text x="39" y="100" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">TypeScript 74.25%</text>
+    <text x="39" y="100" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">TypeScript 72.78%</text>
     <circle cx="200" cy="96" r="5" fill="#b07219"/>
-    <text x="214" y="100" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">Java 14.92%</text>
+    <text x="214" y="100" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">Java 16.31%</text>
     <circle cx="25" cy="120" r="5" fill="#8b8b8b"/>
-    <text x="39" y="124" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">PLpgSQL 3.11%</text>
+    <text x="39" y="124" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">PLpgSQL 2.83%</text>
     <circle cx="200" cy="120" r="5" fill="#f1e05a"/>
-    <text x="214" y="124" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">JavaScript 2.65%</text>
+    <text x="214" y="124" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">JavaScript 2.59%</text>
     <circle cx="25" cy="144" r="5" fill="#3572A5"/>
-    <text x="39" y="148" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">Python 1.86%</text>
+    <text x="39" y="148" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">Python 2.50%</text>
     <circle cx="200" cy="144" r="5" fill="#e34c26"/>
-    <text x="214" y="148" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">HTML 1.60%</text>
+    <text x="214" y="148" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">HTML 1.47%</text>
     <circle cx="25" cy="168" r="5" fill="#8b8b8b"/>
-    <text x="39" y="172" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">Other 1.61%</text>
+    <text x="39" y="172" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">Other 1.52%</text>
 </svg>
