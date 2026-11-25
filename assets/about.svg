@@ -18,14 +18,14 @@
 <text x="438" y="70" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#6C8CFF">02 // EDUCATION</text>
 <g transform="translate(708 82)" fill="none" stroke="#6C8CFF" stroke-width="3" stroke-linejoin="round" filter="url(#glow)"><path d="M-26 -6 L0 -20 L26 -6 L0 8 Z"/><path d="M-14 2 V14 C-6 20 6 20 14 14 V2"/><path d="M26 -6 V10"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></path></g>
 <text x="438" y="144" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#f2f7ff">Royal Holloway</text>
-<text x="438" y="176" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" fill="#9fb4d8">Computer Science student</text></g>
+<text x="438" y="176" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" fill="#9fb4d8">BSc CS (Software Engineering)</text></g>
 <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4.8s" begin="1.0s" repeatCount="indefinite"/>
 <rect x="790" y="30" width="380" height="180" rx="18" fill="url(#card)" stroke="#B26CFF" stroke-opacity="0.45" stroke-width="1.5"/>
 <rect x="790" y="30" width="380" height="180" rx="18" fill="none" stroke="#B26CFF" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="60 1120" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-1120" dur="6s" begin="1.0s" repeatCount="indefinite"/></rect>
 <text x="818" y="70" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#B26CFF">03 // COMPANY</text>
 <g transform="translate(1108 82)" filter="url(#glow)"><g><animateTransform attributeName="transform" type="translate" values="0 0;3 -5;0 0" dur="1.6s" repeatCount="indefinite"/><path d="M0 -24 C12 -10 12 6 8 16 H-8 C-12 6 -12 -10 0 -24 Z" fill="none" stroke="#B26CFF" stroke-width="3"/><circle cy="-6" r="4" fill="#B26CFF"/><path d="M-8 10 L-18 20 L-8 18 M8 10 L18 20 L8 18" fill="none" stroke="#B26CFF" stroke-width="3"/><path d="M-4 20 L0 32 L4 20" fill="#FFB86C"><animate attributeName="opacity" values="1;0.3;1" dur="0.3s" repeatCount="indefinite"/></path></g></g>
-<text x="818" y="144" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#f2f7ff">Founder @ Novalon</text>
-<text x="818" y="176" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" fill="#9fb4d8">Software development agency</text></g>
+<text x="818" y="144" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#f2f7ff">Founder &amp; CEO</text>
+<text x="818" y="176" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" fill="#9fb4d8">Novalon Ltd · Investare (fintech)</text></g>
 <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="5.2s" begin="1.5s" repeatCount="indefinite"/>
 <rect x="30" y="230" width="560" height="160" rx="18" fill="url(#card)" stroke="#B26CFF" stroke-opacity="0.45" stroke-width="1.5"/>
 <rect x="30" y="230" width="560" height="160" rx="18" fill="none" stroke="#B26CFF" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="60 1440" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-1440" dur="6s" begin="1.5s" repeatCount="indefinite"/></rect>

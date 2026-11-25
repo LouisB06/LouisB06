@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg?v=7" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg?v=8" width="100%"/>
 
 
 <a href="https://www.linkedin.com/in/louis-blake/">
@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg?v=7" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg?v=8" width="100%"/>
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 ## 👋 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/about.svg?v=7" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/about.svg?v=8" width="100%"/>
 </div>
 
 <br/>
@@ -33,9 +33,9 @@
 ## 🚀 Novalon Ltd
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/novalon.svg?v=7" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/novalon.svg?v=8" width="100%"/>
   <br/>
-  Founder of <b>Novalon</b>, a software development agency in London. CS student at <b>Royal Holloway</b>.
+  Founder &amp; CEO of <b>Novalon</b>, a software development agency delivering web and mobile apps for clients. Also building <b>Investare</b>, a fintech platform for investing education. BSc Computer Science (Software Engineering) at <b>Royal Holloway</b>.
 </div>
 
 <br/>
@@ -43,7 +43,7 @@
 ## ⚡ Skill Orbit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg?v=7" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg?v=8" width="100%"/>
 </div>
 
 <br/>
@@ -51,13 +51,15 @@
 ## 🧰 Toolkit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/toolkit.svg?v=7" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/toolkit.svg?v=8" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/pinned.svg?v=7" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/pinned.svg?v=8" width="100%"/>
+<br/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/projects.svg?v=8" width="100%"/>
 </div>
 
 <br/>
@@ -100,6 +102,6 @@ Always happy to talk data, projects, or interesting engineering problems.
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/footer.svg?v=7" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/footer.svg?v=8" width="100%"/>
 
 </div>

@@ -13,7 +13,7 @@
 
   <g class="m">
     <text x="40" y="95"><tspan fill="#2BFF88">➜</tspan> <tspan fill="#1BFFFF">~</tspan> <tspan fill="#e6efff">whoami</tspan></text>
-    <text x="40" y="128" fill="#e6efff">Louis Blake · Founder @ Novalon · CS @ Royal Holloway</text>
+    <text x="40" y="128" fill="#e6efff">Louis Blake · Founder &amp; CEO @ Novalon · Investare</text>
     <text x="40" y="170"><tspan fill="#2BFF88">➜</tspan> <tspan fill="#1BFFFF">~</tspan> <tspan fill="#e6efff">cat focus.txt</tspan></text>
     <text x="40" y="203" fill="#B26CFF">→ turning messy data into pipelines and products that ship</text>
     <text x="40" y="233" fill="#6C8CFF">→ deployment · tooling · cleaner data pipelines</text>
