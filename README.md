@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg?v=5" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg?v=6" width="100%"/>
 
 
 <a href="https://www.linkedin.com/in/louis-blake/">
@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg?v=5" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg?v=6" width="100%"/>
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 ## 👋 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/about.svg?v=5" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/about.svg?v=6" width="100%"/>
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
 ## 🚀 Novalon Ltd
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/novalon.svg?v=5" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/novalon.svg?v=6" width="100%"/>
   <br/>
   Founder of <b>Novalon</b>, a software development agency in London. CS student at <b>Royal Holloway</b>.
 </div>
@@ -43,7 +43,7 @@
 ## ⚡ Skill Orbit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg?v=5" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg?v=6" width="100%"/>
 </div>
 
 <br/>
@@ -51,27 +51,7 @@
 ## 🧰 Toolkit
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<b>Languages</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=ts,java,js,css,postgres&theme=dark" />
-</td>
-<td align="center" width="33%">
-<b>Frameworks</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,nextjs&theme=dark" />
-</td>
-<td align="center" width="33%">
-<b>Tools &amp; Cloud</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" />
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/Scrum-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile-172B4D?style=for-the-badge&logoColor=white" />
-
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/toolkit.svg?v=6" width="100%"/>
 </div>
 
 <br/>
@@ -120,6 +100,6 @@ Always happy to talk data, projects, or interesting engineering problems.
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/footer.svg?v=5" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/footer.svg?v=6" width="100%"/>
 
 </div>
