@@ -3,64 +3,59 @@
 <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+things+with+data+%26+code;TypeScript+%7C+Java+%7C+React+%7C+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=640&lines=Building+things+with+data+%26+code;TypeScript+%7C+Java+%7C+React+%7C+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/louis-blake/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/LouisB06">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-0b0f1a?style=for-the-badge&logo=github&logoColor=1BFFFF" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/LouisB06?label=Followers&style=social" />
-<img src="https://komarev.com/ghpvc/?username=LouisB06&label=Profile%20Views&color=1BFFFF&style=flat" />
+<img src="https://img.shields.io/github/followers/LouisB06?label=Followers&style=for-the-badge&color=0b0f1a&labelColor=0b0f1a&logo=github&logoColor=B26CFF" />
+<img src="https://komarev.com/ghpvc/?username=LouisB06&label=Profile%20Views&color=1BFFFF&style=for-the-badge" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
-
-## About Me
-
-- 🛠️ Software Engineer with a focus on **Data & Projects**
-- 🔍 Turning messy data into pipelines and products that actually ship
-- 🚀 Currently exploring: deployment, tooling, and cleaner data pipelines
-- 📫 **[Reach me on LinkedIn →](https://www.linkedin.com/in/louis-blake/)**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg" width="100%"/>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
+## ⚡ Skill Orbit
 
-## Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🧰 Toolkit
 
 <div align="center">
 
-**Languages**
-<br/>
+<table>
+<tr>
+<td align="center" width="33%">
+<b>Languages</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=ts,java,js,css,postgres&theme=dark" />
-
-<br/><br/>
-
-**Frameworks**
-<br/>
+</td>
+<td align="center" width="33%">
+<b>Frameworks</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,nextjs&theme=dark" />
-
-<br/><br/>
-
-**Tools & Cloud**
-<br/>
+</td>
+<td align="center" width="33%">
+<b>Tools &amp; Cloud</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" />
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-**Methodologies**
-<br/>
 <img src="https://img.shields.io/badge/Scrum-0A66C2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Agile-172B4D?style=for-the-badge&logoColor=white" />
 
@@ -68,17 +63,13 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
-
-## Pinned Projects
+## 📌 Pinned Projects
 
 > Check out my pinned repos below ↓
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
-
-## 📈 My GitHub History
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -101,8 +92,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=3&width=100%"/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -113,15 +102,11 @@ Always happy to talk data, projects, or interesting engineering problems.
   <img src="https://img.shields.io/badge/LinkedIn-Louis%20Blake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/LouisB06">
-  <img src="https://img.shields.io/badge/GitHub-LouisB06-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-LouisB06-0b0f1a?style=for-the-badge&logo=github&logoColor=1BFFFF" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,50:6C8CFF,100:B26CFF&height=110&section=footer" width="100%"/>
 
 </div>
