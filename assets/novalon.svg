@@ -15,7 +15,7 @@
 <g clip-path="url(#logo)"><rect y="60" width="160" height="150" fill="url(#scan)"><animate attributeName="x" values="-133;1173" dur="3.5s" repeatCount="indefinite"/></rect></g>
 <g font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" text-anchor="middle">
 <text x="600" y="252" font-size="26" font-weight="700" letter-spacing="14" fill="#e6efff">L T D</text>
-<text x="600" y="288" font-size="16" letter-spacing="3" fill="#9fb4d8">SOFTWARE DEVELOPMENT AGENCY  ·  LONDON</text>
+<text x="600" y="288" font-size="16" letter-spacing="3" fill="#9fb4d8">SOFTWARE DEVELOPMENT AGENCY  ·  LONDON  ·  CLIENTS WORLDWIDE</text>
 <text x="600" y="322" font-size="14" fill="#1BFFFF">&gt; founder: louis_blake <tspan>_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
 </g>
 </svg>

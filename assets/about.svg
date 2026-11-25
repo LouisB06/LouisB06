@@ -39,5 +39,5 @@
 <text x="638" y="270" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#1BFFFF">05 // MISSION</text>
 <g transform="translate(1108 282)" filter="url(#glow)"><path d="M0 -26 L6 -6 L26 0 L6 6 L0 26 L-6 6 L-26 0 L-6 -6 Z" fill="none" stroke="#1BFFFF" stroke-width="3" stroke-linejoin="round"><animateTransform attributeName="transform" type="rotate" values="0;90" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/></path></g>
 <text x="638" y="324" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#f2f7ff">Messy data → products that ship</text>
-<text x="638" y="356" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" fill="#9fb4d8">Full-stack developer · Data &amp; Projects</text></g>
+<text x="638" y="356" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" fill="#9fb4d8">Full-stack · Clients around the world</text></g>
 <rect x="0.5" y="0.5" width="1199" height="419" rx="24" fill="none" stroke="#fff" stroke-opacity="0.1"/></svg>
