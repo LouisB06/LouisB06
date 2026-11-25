@@ -1,12 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg?v=3" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=640&lines=Building+things+with+data+%26+code;TypeScript+%7C+Java+%7C+React+%7C+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</a>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/louis-blake/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,7 +17,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg?v=3" width="100%"/>
+</div>
+
+<br/>
+
+## 🚀 Novalon Ltd
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/novalon.svg?v=3" width="100%"/>
+  <br/>
+  Founder of <b>Novalon</b>, a software development agency in London. CS student at <b>Royal Holloway</b>.
 </div>
 
 <br/>
@@ -30,7 +35,7 @@
 ## ⚡ Skill Orbit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg?v=3" width="100%"/>
 </div>
 
 <br/>
