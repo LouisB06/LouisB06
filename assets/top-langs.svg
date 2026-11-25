@@ -10,7 +10,7 @@
     <rect width="1200" height="378" fill="#09090B"/>
     <rect width="1200" height="378" fill="url(#dots)"/>
     <text x="40" y="36" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="4" fill="url(#neon)">MOST USED LANGUAGES</text>
-    <g clip-path="url(#stack)"><rect x="40.0" y="52" width="797.6" height="8" fill="#3178c6"/><rect x="837.6" y="52" width="170.2" height="8" fill="#b07219"/><rect x="1007.8" y="52" width="52.3" height="8" fill="#e34c26"/><rect x="1060.1" y="52" width="29.3" height="8" fill="#8b8b8b"/><rect x="1089.4" y="52" width="27.6" height="8" fill="#3572A5"/><rect x="1117.0" y="52" width="27.2" height="8" fill="#f1e05a"/><rect x="1144.2" y="52" width="15.8" height="8" fill="#8b8b8b"/></g>
+    <g clip-path="url(#stack)"><rect x="40.0" y="52" width="797.6" height="8" fill="#3178c6"/><rect x="837.6" y="52" width="170.2" height="8" fill="#b07219"/><rect x="1007.8" y="52" width="52.3" height="8" fill="#e34c26"/><rect x="1060.1" y="52" width="29.3" height="8" fill="#8b8b8b"/><rect x="1089.5" y="52" width="27.6" height="8" fill="#3572A5"/><rect x="1117.1" y="52" width="27.2" height="8" fill="#f1e05a"/><rect x="1144.2" y="52" width="15.8" height="8" fill="#8b8b8b"/></g>
     
   <g>
     <circle cx="48" cy="102" r="6" fill="#3178c6" filter="url(#glow)"/>
