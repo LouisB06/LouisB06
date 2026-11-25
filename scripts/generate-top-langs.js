@@ -72,40 +72,61 @@ function escapeXml(s) {
 }
 
 function buildSvg(languages) {
-  const cols = 2;
-  const rows = Math.ceil(languages.length / cols);
-  const width = 380;
-  const barY = 55;
-  const rowStart = barY + 41;
-  const rowHeight = 24;
-  const height = rowStart + rows * rowHeight + 10;
+  const width = 1200;
+  const rowH = 36;
+  const top = 92;
+  const height = top + languages.length * rowH + 34;
+  const trackX = 250;
+  const trackW = 760;
+  const FONT = "Fira Code, SF Mono, Menlo, Consolas, monospace";
 
-  let bars = '';
-  let x = 25;
-  const barWidth = 330;
+  const total = languages.reduce((s, l) => s + l.pct, 0) || 100;
+  let stacked = '';
+  let sx = 40;
+  const stackW = width - 80;
   for (const lang of languages) {
-    const w = (lang.pct / 100) * barWidth;
-    bars += `<rect x="${x.toFixed(1)}" y="${barY}" width="${w.toFixed(1)}" height="10" fill="${lang.color}"/>`;
-    x += w;
+    const w = (lang.pct / total) * stackW;
+    stacked += `<rect x="${sx.toFixed(1)}" y="52" width="${w.toFixed(1)}" height="8" fill="${lang.color}"/>`;
+    sx += w;
   }
 
-  let entries = '';
+  let rows = '';
   languages.forEach((lang, i) => {
-    const col = i % cols;
-    const row = Math.floor(i / cols);
-    const cx = 25 + col * 175;
-    const cy = rowStart + row * rowHeight;
-    entries += `
-    <circle cx="${cx}" cy="${cy}" r="5" fill="${lang.color}"/>
-    <text x="${cx + 14}" y="${cy + 4}" font-family="Segoe UI, sans-serif" font-size="13" fill="#ebdbb2">${escapeXml(lang.name)} ${lang.pct.toFixed(2)}%</text>`;
+    const y = top + i * rowH;
+    const w = Math.max(6, (lang.pct / languages[0].pct) * trackW);
+    const delay = (i * 0.12).toFixed(2);
+    rows += `
+  <g>
+    <circle cx="48" cy="${y + 10}" r="6" fill="${lang.color}" filter="url(#glow)"/>
+    <text x="68" y="${y + 15}" font-family="${FONT}" font-size="15" font-weight="600" fill="#eaf2ff">${escapeXml(lang.name)}</text>
+    <rect x="${trackX}" y="${y + 3}" width="${trackW}" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="${trackX}" y="${y + 3}" width="${w.toFixed(1)}" height="14" rx="7" fill="${lang.color}" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="${w.toFixed(1)}" dur="1.1s" begin="${delay}s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <rect x="${trackX}" y="${y + 3}" width="40" height="14" rx="7" fill="#ffffff" fill-opacity="0.35">
+      <animate attributeName="x" values="${trackX};${(trackX + w - 40).toFixed(1)};${trackX}" dur="${(3 + i * 0.3).toFixed(1)}s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="${(3 + i * 0.3).toFixed(1)}s" repeatCount="indefinite"/>
+    </rect>
+    <text x="${trackX + trackW + 24}" y="${y + 16}" font-family="${FONT}" font-size="15" font-weight="700" fill="${lang.color}">${lang.pct.toFixed(1)}%</text>
+  </g>`;
   });
 
-  return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" rx="10" width="${width - 2}" height="${height - 2}" fill="#1d2021" stroke="#504945" stroke-width="1"/>
-  <text x="25" y="38" font-family="Segoe UI, sans-serif" font-size="19" font-weight="700" fill="#fe8019">Most Used Languages</text>
-  <rect x="25" y="${barY}" width="${barWidth}" height="10" rx="5" fill="#3c3836"/>
-  ${bars}
-  ${entries}
+  return `<svg width="100%" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages across my repositories">
+  <defs>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity="0.07"/></pattern>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1BFFFF"/><stop offset="1" stop-color="#B26CFF"/></linearGradient>
+    <clipPath id="card"><rect width="${width}" height="${height}" rx="24"/></clipPath>
+    <clipPath id="stack"><rect x="40" y="52" width="${stackW}" height="8" rx="4"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="${width}" height="${height}" fill="#0b0f1a"/>
+    <rect width="${width}" height="${height}" fill="url(#dots)"/>
+    <text x="40" y="36" font-family="${FONT}" font-size="14" font-weight="700" letter-spacing="4" fill="url(#neon)">MOST USED LANGUAGES</text>
+    <g clip-path="url(#stack)">${stacked}</g>
+    ${rows}
+  </g>
+  <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="24" fill="none" stroke="#fff" stroke-opacity="0.1"/>
 </svg>
 `;
 }
