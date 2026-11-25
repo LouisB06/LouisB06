@@ -112,6 +112,6 @@ Always happy to talk data, projects, or interesting engineering problems.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,50:6C8CFF,100:B26CFF&height=110&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/footer.svg?v=4" width="100%"/>
 
 </div>
