@@ -1,0 +1,30 @@
+<svg width="100%" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's build something together. Open to projects, collaborations and engineering problems, with clients worldwide.">
+<defs>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1BFFFF"/><stop offset="0.5" stop-color="#6C8CFF"/><stop offset="1" stop-color="#B26CFF"/></linearGradient>
+<radialGradient id="aura" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6C8CFF" stop-opacity="0.35"/><stop offset="1" stop-color="#6C8CFF" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity="0.07"/></pattern>
+<clipPath id="c"><rect width="1200" height="300" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#c)"><rect width="1200" height="300" fill="#0b0f1a"/><rect width="1200" height="300" fill="url(#dots)"/>
+<ellipse cx="600" cy="150" rx="520" ry="150" fill="url(#aura)"><animate attributeName="rx" values="480;560;480" dur="6s" repeatCount="indefinite"/></ellipse>
+<circle cx="110" cy="150" r="6" fill="#1BFFFF" filter="url(#glow)"/>
+<circle cx="110" cy="150" r="6" fill="none" stroke="#1BFFFF" stroke-width="2"><animate attributeName="r" values="6;110" dur="3.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="110" cy="150" r="6" fill="none" stroke="#1BFFFF" stroke-width="2"><animate attributeName="r" values="6;110" dur="3.6s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="110" cy="150" r="6" fill="none" stroke="#1BFFFF" stroke-width="2"><animate attributeName="r" values="6;110" dur="3.6s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="150" r="6" fill="#B26CFF" filter="url(#glow)"/>
+<circle cx="1090" cy="150" r="6" fill="none" stroke="#B26CFF" stroke-width="2"><animate attributeName="r" values="6;110" dur="3.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="150" r="6" fill="none" stroke="#B26CFF" stroke-width="2"><animate attributeName="r" values="6;110" dur="3.6s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="150" r="6" fill="none" stroke="#B26CFF" stroke-width="2"><animate attributeName="r" values="6;110" dur="3.6s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cy="150" r="3.5" fill="#1BFFFF" filter="url(#glow)"><animate attributeName="cx" values="130;400" dur="2.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cy="150" r="3.5" fill="#B26CFF" filter="url(#glow)"><animate attributeName="cx" values="1070;800" dur="2.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cy="150" r="3.5" fill="#1BFFFF" filter="url(#glow)"><animate attributeName="cx" values="130;400" dur="2.6s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cy="150" r="3.5" fill="#B26CFF" filter="url(#glow)"><animate attributeName="cx" values="1070;800" dur="2.6s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cy="150" r="3.5" fill="#1BFFFF" filter="url(#glow)"><animate attributeName="cx" values="130;400" dur="2.6s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cy="150" r="3.5" fill="#B26CFF" filter="url(#glow)"><animate attributeName="cx" values="1070;800" dur="2.6s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<text x="600" y="62" text-anchor="middle" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" letter-spacing="6" fill="#9fb4d8">&gt; INCOMING TRANSMISSION<tspan fill="#1BFFFF">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
+<text x="600" y="136" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="2" fill="url(#neon)" filter="url(#glow)">LET'S BUILD</text>
+<text x="600" y="196" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="2" fill="url(#neon)" filter="url(#glow)">SOMETHING TOGETHER</text>
+<text x="600" y="240" text-anchor="middle" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="14" letter-spacing="2" fill="#cfe0ff">projects · collaborations · hard engineering problems</text>
+<text x="600" y="266" text-anchor="middle" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="12" letter-spacing="4" fill="#2BFF88">CLIENTS WORLDWIDE · LONDON UK</text>
+</g><rect x="0.5" y="0.5" width="1199" height="299" rx="24" fill="none" stroke="#fff" stroke-opacity="0.1"/></svg>
