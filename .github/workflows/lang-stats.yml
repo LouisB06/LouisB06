@@ -1,4 +1,4 @@
-name: update language stats
+name: update profile stats
 
 on:
   schedule:
@@ -23,14 +23,20 @@ jobs:
           STATS_READ_TOKEN: ${{ secrets.STATS_READ_TOKEN }}
         run: node scripts/generate-top-langs.js
 
+      - name: Generate GitHub stats card
+        env:
+          STATS_READ_TOKEN: ${{ secrets.STATS_READ_TOKEN }}
+        run: node scripts/generate-stats.js
+
       - name: Commit changes if any
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- assets/top-langs.svg; then
-            git add assets/top-langs.svg
-            git commit -m "Update language stats"
+          if ! git diff --quiet -- assets/top-langs.svg assets/stats.svg; then
+            git add assets/top-langs.svg assets/stats.svg
+            git commit -m "Update language and GitHub stats"
+            git pull --rebase
             git push
           else
-            echo "No changes to language stats."
+            echo "No changes to stats."
           fi
