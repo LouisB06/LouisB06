@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg?v=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/header.svg?v=4" width="100%"/>
 
 
 <a href="https://www.linkedin.com/in/louis-blake/">
@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg?v=3" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/terminal.svg?v=4" width="100%"/>
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 ## 🚀 Novalon Ltd
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/novalon.svg?v=3" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/novalon.svg?v=4" width="100%"/>
   <br/>
   Founder of <b>Novalon</b>, a software development agency in London. CS student at <b>Royal Holloway</b>.
 </div>
@@ -35,7 +35,7 @@
 ## ⚡ Skill Orbit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg?v=3" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LouisB06/LouisB06/main/assets/skills-orbit.svg?v=4" width="100%"/>
 </div>
 
 <br/>
