@@ -69,11 +69,11 @@ function buildSvg(s) {
   const W = 1200;
   const H = 230;
   const stats = [
-    [String(s.contributions), 'CONTRIBUTIONS', 'last year', '#1BFFFF', 'commit'],
-    [String(s.stars), 'STARS', 'earned', '#6C8CFF', 'star'],
-    [String(s.prs), 'PULL REQUESTS', 'total', '#B26CFF', 'pr'],
-    [String(s.issues), 'ISSUES', 'total', '#1BFFFF', 'issue'],
-    [String(s.contributedTo), 'CONTRIBUTED', 'to other repos', '#6C8CFF', 'contrib'],
+    [String(s.contributions), 'CONTRIBUTIONS', 'last year', '#38BDF8', 'commit'],
+    [String(s.stars), 'STARS', 'earned', '#818CF8', 'star'],
+    [String(s.prs), 'PULL REQUESTS', 'total', '#A78BFA', 'pr'],
+    [String(s.issues), 'ISSUES', 'total', '#38BDF8', 'issue'],
+    [String(s.contributedTo), 'CONTRIBUTED', 'to other repos', '#818CF8', 'contrib'],
   ];
   const n = stats.length;
   const gap = 16;
@@ -92,19 +92,19 @@ function buildSvg(s) {
 <rect x="${x.toFixed(0)}" y="${y}" width="${tw.toFixed(0)}" height="${h}" rx="18" fill="none" stroke="${c}" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="50 ${per}" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-${per}" dur="6s" begin="${d}s" repeatCount="indefinite"/></rect>
 ${icon(ic, x + tw / 2, y + 44, c)}
 <text x="${mid}" y="${y + 120}" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="800" fill="${c}" filter="url(#glow)">${val}</text>
-<text x="${mid}" y="${y + 148}" text-anchor="middle" font-family="${FONT}" font-size="12" font-weight="700" letter-spacing="3" fill="#eaf2ff">${label}</text>
-<text x="${mid}" y="${y + 168}" text-anchor="middle" font-family="${FONT}" font-size="11" fill="#7f8db0">${sub}</text></g>
+<text x="${mid}" y="${y + 148}" text-anchor="middle" font-family="${FONT}" font-size="12" font-weight="700" letter-spacing="3" fill="#FAFAFA">${label}</text>
+<text x="${mid}" y="${y + 168}" text-anchor="middle" font-family="${FONT}" font-size="11" fill="#71717A">${sub}</text></g>
 `;
   });
 
   return `<svg width="100%" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats: ${s.contributions} contributions in the last year, ${s.stars} stars, ${s.prs} pull requests, ${s.issues} issues, ${s.contributedTo} repos contributed to">
 <defs>
-<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.07"/><stop offset="1" stop-color="#fff" stop-opacity="0.015"/></linearGradient>
 <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity="0.07"/></pattern>
 <clipPath id="c"><rect width="${W}" height="${H}" rx="24"/></clipPath>
 </defs>
-<g clip-path="url(#c)"><rect width="${W}" height="${H}" fill="#0b0f1a"/><rect width="${W}" height="${H}" fill="url(#dots)"/>
+<g clip-path="url(#c)"><rect width="${W}" height="${H}" fill="#09090B"/><rect width="${W}" height="${H}" fill="url(#dots)"/>
 ${tiles}</g><rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="24" fill="none" stroke="#fff" stroke-opacity="0.1"/></svg>
 `;
 }

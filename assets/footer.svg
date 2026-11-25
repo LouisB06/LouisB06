@@ -1,9 +1,9 @@
 <svg width="100%" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Always learning, always shipping">
 <defs>
-<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#070a14"/><stop offset="1" stop-color="#2a0f4a"/></linearGradient>
-<linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1BFFFF"/><stop offset="0.5" stop-color="#6C8CFF"/><stop offset="1" stop-color="#B26CFF"/></linearGradient>
-<linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b0b3a"/><stop offset="1" stop-color="#0b0f1a"/></linearGradient>
-<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050506"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#17143a"/><stop offset="1" stop-color="#09090B"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <clipPath id="card"><rect width="1200" height="300" rx="24"/></clipPath>
 <clipPath id="above"><rect width="1200" height="170"/></clipPath>
 <clipPath id="below"><rect y="170" width="1200" height="130"/></clipPath>
@@ -77,8 +77,8 @@
 <circle cx="241" cy="119" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.9s" begin="2.0s" repeatCount="indefinite"/></circle>
 <circle cx="760" cy="24" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" begin="2.5s" repeatCount="indefinite"/></circle>
 <g clip-path="url(#above)"><circle cx="600" cy="170" r="70" fill="url(#sun)" mask="url(#stripes)" filter="url(#glow)"><animate attributeName="r" values="66;74;66" dur="6s" repeatCount="indefinite"/></circle></g>
-<path d="M0 170 L120 122 L210 150 L330 100 L450 170 Z M750 170 L880 108 L970 142 L1080 90 L1200 140 L1200 170 Z" fill="#12082b" stroke="#B26CFF" stroke-opacity="0.6" stroke-width="1.5"/>
-<rect y="170" width="1200" height="130" fill="url(#ground)"/><g clip-path="url(#below)" stroke="#1BFFFF" stroke-opacity="0.55" stroke-width="1.5">
+<path d="M0 170 L120 122 L210 150 L330 100 L450 170 Z M750 170 L880 108 L970 142 L1080 90 L1200 140 L1200 170 Z" fill="#0f0d2e" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+<rect y="170" width="1200" height="130" fill="url(#ground)"/><g clip-path="url(#below)" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="1.5">
 <line x1="600" y1="170" x2="-1220" y2="300"/>
 <line x1="600" y1="170" x2="-1090" y2="300"/>
 <line x1="600" y1="170" x2="-960" y2="300"/>
@@ -116,7 +116,7 @@
 <line x1="0" x2="1200" y1="236.3" y2="236.3"><animate attributeName="y1" values="236.3;265.5" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y2" values="236.3;265.5" dur="2.4s" repeatCount="indefinite"/></line>
 <line x1="0" x2="1200" y1="265.5" y2="265.5"><animate attributeName="y1" values="265.5;300.0" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y2" values="265.5;300.0" dur="2.4s" repeatCount="indefinite"/></line>
 </g>
-<line x1="0" x2="1200" y1="170" y2="170" stroke="#1BFFFF" stroke-width="2" filter="url(#glow)"/>
-<text x="600" y="50" text-anchor="middle" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="22" letter-spacing="8" fill="#eaf2ff" filter="url(#glow)">ALWAYS LEARNING · ALWAYS SHIPPING</text>
-<text x="600" y="78" text-anchor="middle" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#9fb4d8">THANKS FOR STOPPING BY<tspan fill="#1BFFFF">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
+<line x1="0" x2="1200" y1="170" y2="170" stroke="#38BDF8" stroke-width="2" filter="url(#glow)"/>
+<text x="600" y="50" text-anchor="middle" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="22" letter-spacing="8" fill="#FAFAFA" filter="url(#glow)">ALWAYS LEARNING · ALWAYS SHIPPING</text>
+<text x="600" y="78" text-anchor="middle" font-family="Fira Code,SF Mono,Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#A1A1AA">THANKS FOR STOPPING BY<tspan fill="#38BDF8">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
 </g><rect x="0.5" y="0.5" width="1199" height="299" rx="24" fill="none" stroke="#fff" stroke-opacity="0.1"/></svg>

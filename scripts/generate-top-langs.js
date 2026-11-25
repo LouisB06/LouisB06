@@ -98,7 +98,7 @@ function buildSvg(languages) {
     rows += `
   <g>
     <circle cx="48" cy="${y + 10}" r="6" fill="${lang.color}" filter="url(#glow)"/>
-    <text x="68" y="${y + 15}" font-family="${FONT}" font-size="15" font-weight="600" fill="#eaf2ff">${escapeXml(lang.name)}</text>
+    <text x="68" y="${y + 15}" font-family="${FONT}" font-size="15" font-weight="600" fill="#FAFAFA">${escapeXml(lang.name)}</text>
     <rect x="${trackX}" y="${y + 3}" width="${trackW}" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
     <rect x="${trackX}" y="${y + 3}" width="${w.toFixed(1)}" height="14" rx="7" fill="${lang.color}" filter="url(#glow)">
       <animate attributeName="width" from="0" to="${w.toFixed(1)}" dur="1.1s" begin="${delay}s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
@@ -113,14 +113,14 @@ function buildSvg(languages) {
 
   return `<svg width="100%" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages across my repositories">
   <defs>
-    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="1.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity="0.07"/></pattern>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1BFFFF"/><stop offset="1" stop-color="#B26CFF"/></linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
     <clipPath id="card"><rect width="${width}" height="${height}" rx="24"/></clipPath>
     <clipPath id="stack"><rect x="40" y="52" width="${stackW}" height="8" rx="4"/></clipPath>
   </defs>
   <g clip-path="url(#card)">
-    <rect width="${width}" height="${height}" fill="#0b0f1a"/>
+    <rect width="${width}" height="${height}" fill="#09090B"/>
     <rect width="${width}" height="${height}" fill="url(#dots)"/>
     <text x="40" y="36" font-family="${FONT}" font-size="14" font-weight="700" letter-spacing="4" fill="url(#neon)">MOST USED LANGUAGES</text>
     <g clip-path="url(#stack)">${stacked}</g>

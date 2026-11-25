@@ -1,22 +1,22 @@
 <svg width="100%" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal card: whoami Louis Blake, Software Engineer, focus on data pipelines and deployment">
   <defs>
     <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1BFFFF"/><stop offset="1" stop-color="#B26CFF"/>
+      <stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
     </linearGradient>
   </defs>
   <style>.m{font-family:'Fira Code','SF Mono',Menlo,Consolas,monospace;font-size:20px}</style>
-  <rect width="1200" height="300" rx="20" fill="#0b0f1a"/>
+  <rect width="1200" height="300" rx="20" fill="#09090B"/>
   <rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
   <rect width="1200" height="48" rx="20" fill="#ffffff" fill-opacity="0.04"/>
   <circle cx="32" cy="24" r="7" fill="#FF5F57"/><circle cx="56" cy="24" r="7" fill="#FEBC2E"/><circle cx="80" cy="24" r="7" fill="#28C840"/>
-  <text x="600" y="30" text-anchor="middle" class="m" font-size="14" fill="#7f8db0" style="font-size:14px">louis@github: ~</text>
+  <text x="600" y="30" text-anchor="middle" class="m" font-size="14" fill="#71717A" style="font-size:14px">louis@github: ~</text>
 
   <g class="m">
-    <text x="40" y="95"><tspan fill="#2BFF88">➜</tspan> <tspan fill="#1BFFFF">~</tspan> <tspan fill="#e6efff">whoami</tspan></text>
-    <text x="40" y="128" fill="#e6efff">Louis Blake · Founder &amp; CEO @ Novalon · Investare</text>
-    <text x="40" y="170"><tspan fill="#2BFF88">➜</tspan> <tspan fill="#1BFFFF">~</tspan> <tspan fill="#e6efff">cat focus.txt</tspan></text>
-    <text x="40" y="203" fill="#B26CFF">→ turning messy data into pipelines and products that ship</text>
-    <text x="40" y="233" fill="#6C8CFF">→ deployment · tooling · cleaner data pipelines</text>
-    <text x="40" y="272"><tspan fill="#2BFF88">➜</tspan> <tspan fill="#1BFFFF">~</tspan> <tspan fill="#e6efff">█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
+    <text x="40" y="95"><tspan fill="#34D399">➜</tspan> <tspan fill="#38BDF8">~</tspan> <tspan fill="#FAFAFA">whoami</tspan></text>
+    <text x="40" y="128" fill="#FAFAFA">Louis Blake · Founder &amp; CEO @ Novalon · Investare</text>
+    <text x="40" y="170"><tspan fill="#34D399">➜</tspan> <tspan fill="#38BDF8">~</tspan> <tspan fill="#FAFAFA">cat focus.txt</tspan></text>
+    <text x="40" y="203" fill="#A78BFA">→ turning messy data into pipelines and products that ship</text>
+    <text x="40" y="233" fill="#818CF8">→ deployment · tooling · cleaner data pipelines</text>
+    <text x="40" y="272"><tspan fill="#34D399">➜</tspan> <tspan fill="#38BDF8">~</tspan> <tspan fill="#FAFAFA">█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
   </g>
 </svg>
