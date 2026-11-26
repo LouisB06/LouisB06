@@ -10,7 +10,7 @@
     <rect width="1200" height="378" fill="#09090B"/>
     <rect width="1200" height="378" fill="url(#dots)"/>
     <text x="40" y="36" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="4" fill="url(#neon)">MOST USED LANGUAGES</text>
-    <g clip-path="url(#stack)"><rect x="40.0" y="52" width="797.6" height="8" fill="#3178c6"/><rect x="837.6" y="52" width="170.2" height="8" fill="#b07219"/><rect x="1007.8" y="52" width="52.3" height="8" fill="#e34c26"/><rect x="1060.1" y="52" width="29.3" height="8" fill="#8b8b8b"/><rect x="1089.5" y="52" width="27.6" height="8" fill="#3572A5"/><rect x="1117.1" y="52" width="27.2" height="8" fill="#f1e05a"/><rect x="1144.2" y="52" width="15.8" height="8" fill="#8b8b8b"/></g>
+    <g clip-path="url(#stack)"><rect x="40.0" y="52" width="811.2" height="8" fill="#3178c6"/><rect x="851.2" y="52" width="160.0" height="8" fill="#b07219"/><rect x="1011.1" y="52" width="50.6" height="8" fill="#e34c26"/><rect x="1061.7" y="52" width="28.5" height="8" fill="#8b8b8b"/><rect x="1090.2" y="52" width="27.8" height="8" fill="#f1e05a"/><rect x="1117.9" y="52" width="25.9" height="8" fill="#3572A5"/><rect x="1143.8" y="52" width="16.2" height="8" fill="#8b8b8b"/></g>
     
   <g>
     <circle cx="48" cy="102" r="6" fill="#3178c6" filter="url(#glow)"/>
@@ -23,82 +23,82 @@
       <animate attributeName="x" values="250;970.0;250" dur="3.0s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.8;0" dur="3.0s" repeatCount="indefinite"/>
     </rect>
-    <text x="1034" y="108" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#3178c6">71.2%</text>
+    <text x="1034" y="108" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#3178c6">72.4%</text>
   </g>
   <g>
     <circle cx="48" cy="138" r="6" fill="#b07219" filter="url(#glow)"/>
     <text x="68" y="143" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">Java</text>
     <rect x="250" y="131" width="760" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
-    <rect x="250" y="131" width="162.2" height="14" rx="7" fill="#b07219" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="162.2" dur="1.1s" begin="0.12s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="250" y="131" width="149.9" height="14" rx="7" fill="#b07219" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="149.9" dur="1.1s" begin="0.12s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="250" y="131" width="40" height="14" rx="7" fill="#ffffff" fill-opacity="0.35">
-      <animate attributeName="x" values="250;372.2;250" dur="3.3s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="250;359.9;250" dur="3.3s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.8;0" dur="3.3s" repeatCount="indefinite"/>
     </rect>
-    <text x="1034" y="144" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#b07219">15.2%</text>
+    <text x="1034" y="144" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#b07219">14.3%</text>
   </g>
   <g>
     <circle cx="48" cy="174" r="6" fill="#e34c26" filter="url(#glow)"/>
     <text x="68" y="179" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">HTML</text>
     <rect x="250" y="167" width="760" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
-    <rect x="250" y="167" width="49.8" height="14" rx="7" fill="#e34c26" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="49.8" dur="1.1s" begin="0.24s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="250" y="167" width="47.4" height="14" rx="7" fill="#e34c26" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="47.4" dur="1.1s" begin="0.24s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="250" y="167" width="40" height="14" rx="7" fill="#ffffff" fill-opacity="0.35">
-      <animate attributeName="x" values="250;259.8;250" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="250;257.4;250" dur="3.6s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.8;0" dur="3.6s" repeatCount="indefinite"/>
     </rect>
-    <text x="1034" y="180" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#e34c26">4.7%</text>
+    <text x="1034" y="180" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#e34c26">4.5%</text>
   </g>
   <g>
     <circle cx="48" cy="210" r="6" fill="#8b8b8b" filter="url(#glow)"/>
     <text x="68" y="215" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">PLpgSQL</text>
     <rect x="250" y="203" width="760" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
-    <rect x="250" y="203" width="28.0" height="14" rx="7" fill="#8b8b8b" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="28.0" dur="1.1s" begin="0.36s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="250" y="203" width="26.7" height="14" rx="7" fill="#8b8b8b" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="26.7" dur="1.1s" begin="0.36s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="250" y="203" width="40" height="14" rx="7" fill="#ffffff" fill-opacity="0.35">
-      <animate attributeName="x" values="250;238.0;250" dur="3.9s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="250;236.7;250" dur="3.9s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.8;0" dur="3.9s" repeatCount="indefinite"/>
     </rect>
-    <text x="1034" y="216" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#8b8b8b">2.6%</text>
+    <text x="1034" y="216" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#8b8b8b">2.5%</text>
   </g>
   <g>
-    <circle cx="48" cy="246" r="6" fill="#3572A5" filter="url(#glow)"/>
-    <text x="68" y="251" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">Python</text>
+    <circle cx="48" cy="246" r="6" fill="#f1e05a" filter="url(#glow)"/>
+    <text x="68" y="251" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">JavaScript</text>
     <rect x="250" y="239" width="760" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
-    <rect x="250" y="239" width="26.3" height="14" rx="7" fill="#3572A5" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="26.3" dur="1.1s" begin="0.48s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="250" y="239" width="26.0" height="14" rx="7" fill="#f1e05a" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="26.0" dur="1.1s" begin="0.48s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="250" y="239" width="40" height="14" rx="7" fill="#ffffff" fill-opacity="0.35">
-      <animate attributeName="x" values="250;236.3;250" dur="4.2s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="250;236.0;250" dur="4.2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.8;0" dur="4.2s" repeatCount="indefinite"/>
     </rect>
-    <text x="1034" y="252" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#3572A5">2.5%</text>
+    <text x="1034" y="252" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#f1e05a">2.5%</text>
   </g>
   <g>
-    <circle cx="48" cy="282" r="6" fill="#f1e05a" filter="url(#glow)"/>
-    <text x="68" y="287" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">JavaScript</text>
+    <circle cx="48" cy="282" r="6" fill="#3572A5" filter="url(#glow)"/>
+    <text x="68" y="287" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">Python</text>
     <rect x="250" y="275" width="760" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
-    <rect x="250" y="275" width="25.9" height="14" rx="7" fill="#f1e05a" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="25.9" dur="1.1s" begin="0.60s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="250" y="275" width="24.3" height="14" rx="7" fill="#3572A5" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="24.3" dur="1.1s" begin="0.60s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="250" y="275" width="40" height="14" rx="7" fill="#ffffff" fill-opacity="0.35">
-      <animate attributeName="x" values="250;235.9;250" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="250;234.3;250" dur="4.5s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.8;0" dur="4.5s" repeatCount="indefinite"/>
     </rect>
-    <text x="1034" y="288" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#f1e05a">2.4%</text>
+    <text x="1034" y="288" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#3572A5">2.3%</text>
   </g>
   <g>
     <circle cx="48" cy="318" r="6" fill="#8b8b8b" filter="url(#glow)"/>
     <text x="68" y="323" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#FAFAFA">Other</text>
     <rect x="250" y="311" width="760" height="14" rx="7" fill="#ffffff" fill-opacity="0.06"/>
-    <rect x="250" y="311" width="15.0" height="14" rx="7" fill="#8b8b8b" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="15.0" dur="1.1s" begin="0.72s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="250" y="311" width="15.1" height="14" rx="7" fill="#8b8b8b" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="15.1" dur="1.1s" begin="0.72s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="250" y="311" width="40" height="14" rx="7" fill="#ffffff" fill-opacity="0.35">
-      <animate attributeName="x" values="250;225.0;250" dur="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="250;225.1;250" dur="4.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.8;0" dur="4.8s" repeatCount="indefinite"/>
     </rect>
     <text x="1034" y="324" font-family="Fira Code, SF Mono, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#8b8b8b">1.4%</text>
